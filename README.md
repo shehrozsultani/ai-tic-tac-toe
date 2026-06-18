@@ -39,7 +39,7 @@ Note: If no API key is provided, the system seamlessly triggers an instinctual o
 
 ## Author Details
 * **Student Name:** Shehroz Sultani
-* **Project Assignment:** ACT AI Course
+* **Project Assignment:** ACT AI Course(BATCH-2)
 * **Program:** Bachelor of Science in Information Technology (BS IT)
 * **Institution:** University of the Punjab, Gujranwala Campus
 
